@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a new file
+=======
+Text has been modified
+>>>>>>> NewWork
