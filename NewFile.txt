@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is a new file
-=======
-Text has been modified
->>>>>>> NewWork
+This file has not to be removed
